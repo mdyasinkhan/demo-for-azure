@@ -12,7 +12,7 @@ public class DemoForAzureApplication {
 	@GetMapping("/result")
 	public String getResult() {
 		
-		return "This is just demo";
+		return "This is just demo!!";
 	}
 
 	public static void main(String[] args) {
